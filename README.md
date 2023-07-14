@@ -7,4 +7,8 @@ Notebook 1: Extract sentences from the annual reports and standardised the sente
 
 Notebook 2: Create a dataset with extracted sentences and the labels of sentiment
 
-Notebook 3: Text pre-processing and Modelling.
+Notebook 3: Text pre-processing and LSTM Modelling.
+
+Notebook 4: Text pre-processing and GRU Modelling.
+
+Notebook 5: Text pre-processing and Convolutional Modelling.
